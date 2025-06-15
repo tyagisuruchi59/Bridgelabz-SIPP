@@ -1,3 +1,5 @@
+package Day3_ProgrammingElement;
+
 import java.util.Scanner;
 
 /**
